@@ -1,0 +1,92 @@
+html, body, #root{
+   height: 100%;
+   position: relative;
+}
+#MOBILE{
+    position: fixed;
+    height: 100%;
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+    top: 0;
+    left: 0;
+    z-index:699999999;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+#MOBILE #bb{
+   
+    z-index:7 !important;
+    background-color: transparent;
+    color: red;
+    position: absolute;
+    border: none;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+#MOBILE #bb i{
+ font-size: 30px;
+}
+#MOBILE #logo0 img{
+    width: 60px;
+   }
+#MOBILE #nn09{
+    position: relative;
+    top: 30px;
+    width: 100%;
+   }
+#MOBILE #nn09 ul {
+    position: absolute;
+    left: -40px;
+    width: 100%;
+   }
+#MOBILE #nn09 ul li{
+    list-style: none;
+    padding: 12px 5px;
+    position: relative;
+   }
+#MOBILE #nn09 ul li:nth-child(even) {
+    background-color: #ffffffbb;
+  }
+#MOBILE #nn09 ul li:nth-child(odd) {
+    background-color: #b7eeb2bb;
+  }
+#MOBILE #log09 {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0px;
+  }
+#MOBILE #log09 button{
+   width: 100%;
+   padding: 17px 0px;
+   border: none;
+   color: white;
+  } 
+ #MOBILE #log09 .btn08 {
+background-color:#34c127bb ;
+   } 
+#MOBILE #log09 .btn09{
+    background-color: #ffffff;
+    color: #34c127bb;
+    border: 1px solid #34c127bb;
+   }     
+
+   #MOBILE #nn09 ul li::before {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background-color: #f04c2f;
+    border-radius: 20px;
+    transition: 0.7s all;
+    z-index: 66;
+  }
+  #MOBILE #nn09 ul li:hover::before {
+   width: 100%;
+  }  

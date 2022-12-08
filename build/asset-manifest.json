@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/First-React-JS/static/css/main.a97f949c.css",
+    "main.js": "/First-React-JS/static/js/main.9ef6a3d9.js",
+    "static/media/team.png": "/First-React-JS/static/media/team.88de218929265676d040.png",
+    "static/media/me.JPG": "/First-React-JS/static/media/me.391d240ded7f0e5100bd.JPG",
+    "static/media/idea.png": "/First-React-JS/static/media/idea.6bcef56f7d9e8efeb8cb.png",
+    "static/media/logo.png": "/First-React-JS/static/media/logo.eba75705b11fce8c2e19.png",
+    "static/media/green.png": "/First-React-JS/static/media/green.75f1985b9289c608a068.png",
+    "static/media/Solutions_3_ADO_928x728@1-5x.webp": "/First-React-JS/static/media/Solutions_3_ADO_928x728@1-5x.1db12fd5174325d3c657.webp",
+    "static/media/Solutions_1_WorkManagement_928x728@1-5x.webp": "/First-React-JS/static/media/Solutions_1_WorkManagement_928x728@1-5x.534f33dd8fc960a408d4.webp",
+    "static/media/Solutions_2_ITSM_928x728@1-5x.webp": "/First-React-JS/static/media/Solutions_2_ITSM_928x728@1-5x.e39782fd28ccb6bf54c9.webp",
+    "static/media/audi.png": "/First-React-JS/static/media/audi.684d3f12190d3fd31187.png",
+    "static/media/A1.png": "/First-React-JS/static/media/A1.7acf4738aebc0026c572.png",
+    "static/media/nasa.png": "/First-React-JS/static/media/nasa.8d43846f6d5ea5eb7103.png",
+    "static/media/Team Playbook_360x265@2x.webp": "/First-React-JS/static/media/Team Playbook_360x265@2x.a202ac59df2ff168e03b.webp",
+    "static/media/CommunityMobile_360x235@2x.webp": "/First-React-JS/static/media/CommunityMobile_360x235@2x.7816548c7bdacab50cf3.webp",
+    "static/media/Blog_360x265@2x.webp": "/First-React-JS/static/media/Blog_360x265@2x.ab99e6d21a0695d198f1.webp",
+    "static/media/c1.webp": "/First-React-JS/static/media/c1.a75f2e47eb017bb4057f.webp",
+    "static/media/paypal.png": "/First-React-JS/static/media/paypal.7ac2b3b2f64f43397fec.png",
+    "static/media/A2.png": "/First-React-JS/static/media/A2.39e9e25cd0bd40d483a4.png",
+    "static/media/Agile Coach_360x265@2x.webp": "/First-React-JS/static/media/Agile Coach_360x265@2x.42e1163ac7100fcb0333.webp",
+    "index.html": "/First-React-JS/index.html",
+    "main.a97f949c.css.map": "/First-React-JS/static/css/main.a97f949c.css.map",
+    "main.9ef6a3d9.js.map": "/First-React-JS/static/js/main.9ef6a3d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97f949c.css",
+    "static/js/main.9ef6a3d9.js"
+  ]
+}
